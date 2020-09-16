@@ -1,4 +1,8 @@
 Hello...My name is chinmai
 Iam learning Git
+<<<<<<< HEAD
 This is a new feature
+=======
+adding data in new branch 
+>>>>>>> 40ef6c951f589b4618102fa2c7c58012534c43f0
 
